@@ -1,5 +1,5 @@
 # Pokemon
-um projeto de teste com um arquivo README💢
+um projeto de teste 💢
 <img src="./pokemon.gif" alt="gif da pokemon">
 
 
